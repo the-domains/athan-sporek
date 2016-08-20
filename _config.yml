@@ -1,4 +1,3 @@
-layout_spectrum: 0.532058636425063
 typography_spectrum: 0.9781668924260885
 color:
   brandStrength: 0.4554160642437637
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.532058636425063
 name: Athan Sporek
+title: Athan Sporek
